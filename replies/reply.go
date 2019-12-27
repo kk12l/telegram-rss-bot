@@ -1,7 +1,7 @@
 package replies
 
 import (
-	"github.com/0x111/telegram-rss-bot/models"
+	"../models"
 	"gopkg.in/telegram-bot-api.v4"
 	"strconv"
 )
